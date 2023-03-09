@@ -1,1 +1,1 @@
-Prime game
+Prime game in python
